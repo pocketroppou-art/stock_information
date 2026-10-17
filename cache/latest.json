@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-10-17T18:57:50",
+  "universe": 67,
+  "with_data": 67,
+  "liquid": 67,
+  "candidates": 15,
+  "excluded": [
+    "武田薬品工業: ROEが低い/赤字"
+  ],
+  "picks": [
+    {
+      "code": "9432",
+      "name": "日本電信電話",
+      "sector": "Communication Services",
+      "safety": 90.1,
+      "vol": 15.9,
+      "mdd": 10.6,
+      "beta": -0.0,
+      "per": 13.7,
+      "pbr": 1.44,
+      "div": 3.06,
+      "turnover_oku": 319.2,
+      "last": 174.5,
+      "stop": 160.5
+    },
+    {
+      "code": "1928",
+      "name": "積水ハウス",
+      "sector": "Consumer Cyclical",
+      "safety": 84.5,
+      "vol": 18.9,
+      "mdd": 16.3,
+      "beta": 0.0,
+      "per": 8.6,
+      "pbr": 0.98,
+      "div": 4.24,
+      "turnover_oku": 82.2,
+      "last": 3390.0,
+      "stop": 3118.8
+    },
+    {
+      "code": "9433",
+      "name": "KDDI",
+      "sector": "Communication Services",
+      "safety": 83.2,
+      "vol": 23.4,
+      "mdd": 9.2,
+      "beta": -0.0,
+      "per": 14.7,
+      "pbr": 2.16,
+      "div": 2.76,
+      "turnover_oku": 275.6,
+      "last": 2910.0,
+      "stop": 2677.2
+    },
+    {
+      "code": "2502",
+      "name": "アサヒグループホールディングス",
+      "sector": "Consumer Defensive",
+      "safety": 80.8,
+      "vol": 21.9,
+      "mdd": 17.4,
+      "beta": 0.0,
+      "per": 14.9,
+      "pbr": 0.75,
+      "div": 3.19,
+      "turnover_oku": 103.6,
+      "last": 1641.5,
+      "stop": 1510.2
+    },
+    {
+      "code": "2269",
+      "name": "明治ホールディングス",
+      "sector": "Consumer Defensive",
+      "safety": 80.4,
+      "vol": 23.2,
+      "mdd": 11.0,
+      "beta": 0.0,
+      "per": 29.0,
+      "pbr": 1.51,
+      "div": 2.43,
+      "turnover_oku": 45.4,
+      "last": 4311.0,
+      "stop": 3966.1
+    }
+  ],
+  "stop_loss_pct": 8.0,
+  "demo": false
+}
