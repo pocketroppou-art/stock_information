@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:20:44",
+  "generated_at": "2026-11-04T10:57:28",
   "universe": 67,
   "with_data": 67,
   "liquid": 67,
@@ -16,10 +16,10 @@
       "beta": -0.0,
       "per": 13.6,
       "pbr": 1.44,
-      "div": 3.06,
-      "turnover_oku": 314.6,
-      "last": 174.5,
-      "stop": 160.5
+      "div": 3.04,
+      "turnover_oku": 306.4,
+      "last": 173.8,
+      "stop": 159.9
     },
     {
       "code": "9433",
@@ -29,12 +29,12 @@
       "vol": 23.3,
       "mdd": 9.4,
       "beta": -0.0,
-      "per": 14.6,
-      "pbr": 2.11,
+      "per": 14.7,
+      "pbr": 2.12,
       "div": 2.82,
-      "turnover_oku": 272.2,
-      "last": 2839.5,
-      "stop": 2612.3
+      "turnover_oku": 264.0,
+      "last": 2854.5,
+      "stop": 2626.1
     },
     {
       "code": "1928",
@@ -44,42 +44,42 @@
       "vol": 19.1,
       "mdd": 16.3,
       "beta": 0.0,
-      "per": 8.8,
-      "pbr": 1.0,
+      "per": 9.0,
+      "pbr": 1.02,
       "div": 4.14,
-      "turnover_oku": 91.1,
-      "last": 3482.0,
-      "stop": 3203.4
+      "turnover_oku": 89.8,
+      "last": 3530.0,
+      "stop": 3247.6
     },
     {
       "code": "2502",
       "name": "アサヒグループホールディングス",
       "sector": "Consumer Defensive",
       "safety": 81.2,
-      "vol": 22.1,
+      "vol": 22.2,
       "mdd": 17.4,
       "beta": 0.0,
-      "per": 15.0,
-      "pbr": 0.77,
-      "div": 3.15,
-      "turnover_oku": 109.4,
-      "last": 1671.0,
-      "stop": 1537.3
+      "per": 15.6,
+      "pbr": 0.79,
+      "div": 3.11,
+      "turnover_oku": 107.8,
+      "last": 1711.5,
+      "stop": 1574.6
     },
     {
       "code": "2914",
       "name": "日本たばこ産業",
       "sector": "Consumer Defensive",
-      "safety": 80.4,
+      "safety": 79.8,
       "vol": 23.5,
       "mdd": 8.2,
       "beta": 0.0,
-      "per": 21.2,
-      "pbr": 3.17,
-      "div": 3.67,
-      "turnover_oku": 347.6,
-      "last": 7364.0,
-      "stop": 6774.9
+      "per": 21.8,
+      "pbr": 3.21,
+      "div": 3.61,
+      "turnover_oku": 343.6,
+      "last": 7441.0,
+      "stop": 6845.7
     }
   ],
   "stop_loss_pct": 8.0,
